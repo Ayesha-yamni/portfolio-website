@@ -419,7 +419,7 @@ h3.my-profession
 {
     font-weight: 600;
     padding: 10px 0;
-    font-size: 16px;
+    font-size: 12px;
     color: var(--text-black-900);
     border-bottom: 1px solid var(--bg-black-50);
 }
@@ -548,7 +548,7 @@ h3.my-profession
 .about .about-content .timeline .timeline-date
 {
     font-weight: 400;
-    font-size: 14px;
+    font-size: 12px;
     margin-bottom: 12px;
     color: var(--text-black-700);
 }
@@ -559,7 +559,7 @@ h3.my-profession
 .about .about-content .timeline .timeline-title
 {
     font-weight: 700;
-    font-size: 18px;
+    font-size: 14px;
     margin-bottom: 15px;
     text-transform: capitalize;
     color: var(--text-black-900);
@@ -567,7 +567,7 @@ h3.my-profession
 .about .about-content .timeline .timeline-text
 {
     line-height: 25px;
-    font-size: 16px;
+    font-size: 12px;
     text-align: justify;
     color: var(--text-black-700);
 }
